@@ -429,6 +429,7 @@
 				TargetAttributes = {
 					232B4C791BC29950001F2B7A = {
 						CreatedOnToolsVersion = 7.0.1;
+						LastSwiftMigration = 0800;
 					};
 					232B4C891BC29984001F2B7A = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -641,6 +642,7 @@
 				PRODUCT_NAME = KeychainSwift;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -662,6 +664,7 @@
 				PRODUCT_NAME = KeychainSwift;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
